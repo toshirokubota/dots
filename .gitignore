@@ -1,0 +1,123 @@
+<<<<<<< HEAD
+#MATLAB objects
+*.mat
+*.shape
+*.eps
+*.pdf
+*.ps
+*.bmp
+*.png
+*.jpg
+*.txt
+*.asv
+*.sav
+
+=======
+>>>>>>> f723ba8a4ea3cd5ab6f590cbd4fa35a1d655feb5
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+<<<<<<< HEAD
+*.sdf
+=======
+>>>>>>> f723ba8a4ea3cd5ab6f590cbd4fa35a1d655feb5
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+<<<<<<< HEAD
+*.exp
+*.pdb
+=======
+>>>>>>> f723ba8a4ea3cd5ab6f590cbd4fa35a1d655feb5
+
+# Executables
+*.exe
+*.out
+*.app
+<<<<<<< HEAD
+
+*.tlog
+*.log
+*.zip
+*.user
+
+# Build results
+
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+
+#*Copy*.cpp
+#*Copy*.h
+*- Copy.cpp
+*- Copy.h
+*- Copy (*).cpp
+*- Copy (*).h
+
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows
+# =========================
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+=======
+>>>>>>> f723ba8a4ea3cd5ab6f590cbd4fa35a1d655feb5
